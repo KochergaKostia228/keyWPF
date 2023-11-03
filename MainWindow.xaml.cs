@@ -30,7 +30,7 @@ namespace keyWPF
         public MainWindow()
         {
             InitializeComponent();
-            CreateButtons(chars,SPBase);
+            CreateButtons(chars,SPBase); 
             CreateButtons(chars2, SPBase2);
             CreateButtons(chars3, SPBase3);
 
